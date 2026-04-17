@@ -1,16 +1,17 @@
 # Cybersecurity Portfolio
 
-Aspiring SOC Analyst with hands-on experience from TryHackMe labs.
+Aspiring SOC Analyst with hands-on experience through TryHackMe labs and practical exercises.
 
-Building foundational skills in:
-- Network analysis and security fundamentals
+## Skills & Focus Areas
+- Network fundamentals (TCP/IP, DNS, HTTP/HTTPS)
 - Linux systems and command line usage
-- Threat detection and basic incident response
+- Basic threat detection and incident response concepts
+- Exposure to web security and cloud environments
 
-Currently developing practical lab experience and documenting projects.
-
-## 📂 Projects
-
+## Projects
 - [System Navigation Lab](./projects/system-navigation-lab.md)
 - [Web Security Lab](./projects/web-security-lab.md)
 - [Cloud & VM Lab](./projects/cloud-vm-lab.md)
+
+## About Me
+Currently building practical cybersecurity skills by completing labs, documenting projects, and strengthening foundational knowledge for entry-level roles.
