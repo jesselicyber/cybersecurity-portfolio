@@ -1,3 +1,4 @@
+<img width="713" height="347" alt="gobuster" src="https://github.com/user-attachments/assets/0eb72c20-6d9e-48e2-9391-369a50acac3b" />
 # Web Security Lab (Basic Web Exploration & Password Testing)
 
 ## What I Did
@@ -23,7 +24,8 @@ Understanding how attackers discover hidden pages and test login systems helps b
 ### Gobuster
 Used Gobuster to find a hidden login page on the target website.
 
-![Gobuster screenshot](gobuster.png)
+![Gobuster screenshot](gobus<img width="713" height="347" alt="gobuster" src="https://github.com/user-attachments/assets/4a62ae14-65d9-4e68-a109-65c500b57232" />
+ter.png)
 
 ### Hydra
 Used Hydra to test passwords from a wordlist against the login form in a lab environment.
