@@ -13,7 +13,7 @@ Explored a web application to identify hidden pages and tested login functionali
 - Basic exposure to password testing
 
 ## What I Learned
-Learned how web applications can expose hidden content and how weak login credentials can be identified through testing.
+Learned that individual vulnerabilities can compound, where a single weakness may lead to serious security consequences when combined with others  
 
 ## Why It Matters
 Understanding how attackers discover hidden pages and test login systems helps build awareness of common web vulnerabilities and strengthens defensive thinking.
