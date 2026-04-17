@@ -21,11 +21,12 @@ Understanding how attackers discover hidden pages and test login systems helps b
 ## Screenshots
 
 ### Gobuster
-Used Gobuster to find a hidden login page on the target website.
+Used Gobuster with a directory wordlist to find a hidden login page on the target website.
 
-![Gobuster screenshot](gobuster.png)
+<img width="713" height="347" alt="gobuster" src="https://github.com/user-attachments/assets/6989c6d0-bff5-4c80-81d1-7e7b754a9c91" />
 
 ### Hydra
 Used Hydra to test passwords from a wordlist against the login form in a lab environment.
 
-![Hydra screenshot](hydra.png)
+<img width="701" height="354" alt="hydra" src="https://github.com/user-attachments/assets/40ad8def-38ab-4347-b2f8-0ca24aa46a82" />
+
