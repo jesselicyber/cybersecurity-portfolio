@@ -8,3 +8,9 @@ Building foundational skills in:
 - Threat detection and basic incident response
 
 Currently developing practical lab experience and documenting projects.
+
+## 📂 Projects
+
+- [System Navigation Lab](./projects/system-navigation-lab.md)
+- [Web Security Lab](./projects/web-security-lab.md)
+- [Cloud & VM Lab](./projects/cloud-vm-lab.md)
