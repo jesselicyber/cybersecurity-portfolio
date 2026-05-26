@@ -1,6 +1,6 @@
 # Cybersecurity Portfolio
 
-Aspiring SOC Analyst with hands-on experience through TryHackMe labs and practical exercises.
+CompTIA A+ Certified cybersecurity student building hands-on IT and cybersecurity skills through home labs, virtual machines, and practical exercises.
 
 ## Skills & Focus Areas
 - Network fundamentals (TCP/IP, DNS, HTTP/HTTPS)
