@@ -1,6 +1,6 @@
 # Cybersecurity Portfolio
 
-CompTIA A+ Certified | Cybersecurity Student | Building hands-on IT and cybersecurity skills through labs and home environments
+CompTIA A+ Certified | Cybersecurity Student | Hands-on IT & Cybersecurity Labs
 
 ## Skills & Focus Areas
 - Network fundamentals (TCP/IP, DNS, HTTP/HTTPS)
@@ -9,9 +9,9 @@ CompTIA A+ Certified | Cybersecurity Student | Building hands-on IT and cybersec
 - Exposure to web security and cloud environments
 
 ## Projects
-- [System Navigation Lab - TryHackMe](./projects/system-navigation-lab.md)
-- [Web Security Lab - TryHackMe](./projects/web-security-lab.md)
-- [Cloud & VM Lab - TryHackMe](./projects/cloud-vm-lab.md)
+- [System Navigation Lab](./projects/system-navigation-lab.md)
+- [Web Security Lab](./projects/web-security-lab.md)
+- [Cloud & VM Lab](./projects/cloud-vm-lab.md)
 
 ## About Me
-Currently building practical cybersecurity skills by completing labs, documenting projects, and strengthening foundational knowledge for entry-level roles.
+Currently building hands-on IT and cybersecurity skills through home labs, virtual machines, networking, Linux, and practical security exercises while preparing for entry-level IT roles.
