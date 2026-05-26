@@ -1,6 +1,6 @@
 # Cybersecurity Portfolio
 
-CompTIA A+ Certified cybersecurity student building hands-on IT and cybersecurity skills through home labs, virtual machines, and practical exercises.
+CompTIA A+ Certified | Cybersecurity Student | Building hands-on IT and cybersecurity skills through labs and home environments
 
 ## Skills & Focus Areas
 - Network fundamentals (TCP/IP, DNS, HTTP/HTTPS)
