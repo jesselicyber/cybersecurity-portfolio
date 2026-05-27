@@ -11,14 +11,12 @@ CompTIA A+ Certified | Cybersecurity Student | Building Hands-On IT & Cybersecur
 ## Labs & Projects
 
 ### Home Labs
-- Active Directory Home Lab
-- Networking Home Lab
-- Windows Administration Lab
+- Active Directory Home Lab (In Progress)
 
 ### TryHackMe Labs
-- System Navigation Lab
-- Web Security Lab
-- Cloud & VM Lab
+- [System Navigation Lab](./tryhackme-labs/system-navigation-lab.md)
+- [Web Security Lab](./tryhackme-labs/web-security-lab.md)
+- [Cloud & VM Lab](./tryhackme-labs/cloud-vm-lab.md)
   
 ## About Me
 Currently building hands-on IT and cybersecurity skills through home labs, virtual machines, networking, Linux, and practical security exercises while preparing for entry-level IT support roles.
