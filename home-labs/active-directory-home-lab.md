@@ -58,10 +58,8 @@ Configured static IP addressing and DNS settings to allow communication between 
 
 Configured NAT and routing so client systems could access the internet while remaining connected to the internal Active Directory environment.
 
-**Use this screenshot:**  
-✅ **Routing & NAT interface (INTERNET selected)**
+<img width="494" height="414" alt="Routing NAT interface" src="https://github.com/user-attachments/assets/74b47ee9-3af6-4379-b5f0-764c3a033f8b" />
 
-(Add screenshot here)
 
 ---
 
@@ -69,10 +67,7 @@ Configured NAT and routing so client systems could access the internet while rem
 
 Configured DHCP services and verified that the Windows client machine successfully received an IP address lease from the Domain Controller.
 
-**Use this screenshot:**  
-✅ **DHCP Lease Success (`172.16.0.100`)**
-
-(Add screenshot here)
+<img width="1187" height="730" alt="DHCP Lease Success" src="https://github.com/user-attachments/assets/5e029f72-b917-4387-9f44-c400a7fc191e" />
 
 ---
 
@@ -80,10 +75,7 @@ Configured DHCP services and verified that the Windows client machine successful
 
 Used a PowerShell script to bulk-create multiple Active Directory users automatically instead of manually creating accounts.
 
-**Use this screenshot:**  
-✅ **PowerShell “Creating user:” screen**
-
-(Add screenshot here)
+<img width="806" height="308" alt="PowerShell Bulk User Script" src="https://github.com/user-attachments/assets/c97a87a7-c6b1-4a04-a2aa-f631e4107503" />
 
 ---
 
@@ -91,10 +83,7 @@ Used a PowerShell script to bulk-create multiple Active Directory users automati
 
 Verified successful creation of user accounts and Organizational Units (OUs) inside Active Directory Users and Computers.
 
-**Use this screenshot:**  
-✅ **AD Users & Computers showing many users**
-
-(Add screenshot here)
+<img width="745" height="522" alt="AD Users and Computers" src="https://github.com/user-attachments/assets/48b88c4d-dce4-44a2-839e-2e93b382f62d" />
 
 ---
 
@@ -102,10 +91,7 @@ Verified successful creation of user accounts and Organizational Units (OUs) ins
 
 Successfully joined the Windows 10 client machine to the Active Directory domain.
 
-**Use this screenshot:**  
-✅ **“Welcome to the mydomain.com domain” popup**
-
-(Add screenshot here)
+<img width="799" height="630" alt="Domain Join Success Popup" src="https://github.com/user-attachments/assets/97d26800-4d68-4646-a908-6e303bb18f7b" />
 
 ---
 
@@ -113,10 +99,7 @@ Successfully joined the Windows 10 client machine to the Active Directory domain
 
 Verified domain functionality by logging into the Windows client machine using domain credentials.
 
-**Use this screenshot:**  
-✅ **MYDOMAIN login screen**
-
-(Add screenshot here)
+<img width="1024" height="768" alt="MYDOMAIN Login screen" src="https://github.com/user-attachments/assets/fe72828b-e1d4-4da1-a9d1-6869b1616828" />
 
 ---
 
