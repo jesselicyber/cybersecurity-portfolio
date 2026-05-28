@@ -41,10 +41,8 @@ Configured a virtual environment using VirtualBox with a Windows Server 2019 Dom
 
 Created a new Active Directory forest and configured a custom domain (`mydomain.com`) using Active Directory Domain Services.
 
-**Use this screenshot:**  
-✅ **Add New Forest → mydomain.com**
+<img width="752" height="552" alt="Domain Creation" src="https://github.com/user-attachments/assets/bfb4687a-e06a-41aa-bf86-371e7426a220" />
 
-(Add screenshot here)
 
 ---
 
