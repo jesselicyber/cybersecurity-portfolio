@@ -32,6 +32,7 @@ Built an Active Directory home lab using Windows Server 2019, Windows 10, and Vi
 
 Configured a virtual environment using VirtualBox with a Windows Server 2019 Domain Controller (DC) and Windows 10 client machine.
 
+
 <img width="1899" height="975" alt="DC and CLIENT1" src="https://github.com/user-attachments/assets/2cfdfd3d-d39a-4aeb-a73e-9ac1b628b5b9" />
 
 ---
