@@ -11,7 +11,7 @@ CompTIA A+ Certified | Cybersecurity Student | Building Hands-On IT & Cybersecur
 ## Labs & Projects
 
 ### Home Labs
-- Active Directory Home Lab (In Progress)
+- [Active Directory Home Lab](./home-labs/active-directory-home-lab.md)
 
 ### TryHackMe Labs
 - [System Navigation Lab](./tryhackme-labs/system-navigation-lab.md)
