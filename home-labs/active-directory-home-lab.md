@@ -92,7 +92,7 @@ Verified successful creation of user accounts and Organizational Units (OUs) ins
 
 Successfully joined the Windows 10 client machine to the Active Directory domain.
 
-<<img width="299" height="147" alt="chrome_ILEu0Tf80d" src="https://github.com/user-attachments/assets/46172def-cf14-4a3f-85a0-6437a46075b0" />
+<img width="299" height="147" alt="chrome_ILEu0Tf80d" src="https://github.com/user-attachments/assets/46172def-cf14-4a3f-85a0-6437a46075b0" />
 
 ---
 
