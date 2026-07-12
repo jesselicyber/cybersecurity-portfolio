@@ -24,7 +24,7 @@ Welcome! This portfolio showcases my hands-on IT and cybersecurity projects comp
 - Microsoft Entra ID
   
 ## About Me
-CompTIA Security+, Network+, and A+ certified with a strong interest in IT infrastructure and cybersecurity. This portfolio showcases the hands-on home labs and technical projects I've built while developing skills in Windows Server, Active Directory, networking, virtualization, and system administration.
+I'm passionate about learning IT by building hands-on home labs and real-world projects. This portfolio documents my progress as I develop practical experience with Windows Server, Active Directory, networking, virtualization, and system administration while preparing for an entry-level career in IT.
 
 
  
