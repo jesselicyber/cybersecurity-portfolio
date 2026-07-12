@@ -28,7 +28,7 @@ Built an Active Directory home lab using Windows Server 2019, Windows 10, and Vi
 
 # Lab Walkthrough
 
-## 1. Virtual Lab Environment
+Virtual Environment Setup
 
 Configured a virtual environment using VirtualBox with a Windows Server 2019 Domain Controller (DC) and Windows 10 client machine.
 
