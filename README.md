@@ -1,6 +1,6 @@
 # Cybersecurity & IT Portfolio
 
-CompTIA Security+ | CompTIA Network+ | CompTIA A+
+CompTIA Security+ | CompTIA Network+ | CompTIA A+ Certified
 
 Welcome! This portfolio showcases my hands-on IT and cybersecurity projects completed through home labs, virtualization, Windows Server, networking, and system administration. Each project is documented with objectives, screenshots, configuration steps, and lessons learned.
 
