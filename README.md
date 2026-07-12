@@ -6,20 +6,6 @@ Welcome! This portfolio showcases my hands-on IT and cybersecurity projects comp
 
 ---
 
-## Technical Skills
-
-**Operating Systems:** Windows 10/11, Windows Server, Linux
-
-**Systems Administration:** Active Directory, Organizational Units (OUs), Domain Join
-
-**Networking:** TCP/IP, DNS, DHCP, NAT
-
-**Virtualization:** VirtualBox
-
-**Scripting:** PowerShell
-
-**Core Skills:** Troubleshooting, System Administration
-
 ## Featured Projects
 
 ### [Active Directory Home Lab](./home-labs/active-directory-home-lab.md)
