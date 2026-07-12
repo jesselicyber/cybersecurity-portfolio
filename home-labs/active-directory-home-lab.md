@@ -50,7 +50,7 @@ Created a new Active Directory forest and configured a custom domain (`mydomain.
 
 Configured static IP addressing and DNS settings to allow communication between the Domain Controller and client systems.
 
-<<img width="389" height="443" alt="chrome_v6hNDkCvqP" src="https://github.com/user-attachments/assets/5f5fb1e9-65d3-48d5-8b39-acd63db1ffd8" />
+<img width="389" height="443" alt="chrome_v6hNDkCvqP" src="https://github.com/user-attachments/assets/5f5fb1e9-65d3-48d5-8b39-acd63db1ffd8" />
 
 ---
 
