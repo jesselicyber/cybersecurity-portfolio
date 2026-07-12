@@ -40,7 +40,6 @@ Welcome! This portfolio showcases my hands-on IT and cybersecurity projects comp
 ## About Me
 CompTIA Security+, Network+, and A+ certified with a strong interest in IT infrastructure and cybersecurity. This portfolio showcases the hands-on home labs and technical projects I've built while developing skills in Windows Server, Active Directory, networking, virtualization, and system administration.
 
-Currently looking for an entry-level IT Support or Help Desk Role where I can continue learning and build a long-term career in technology.
 
  
 
