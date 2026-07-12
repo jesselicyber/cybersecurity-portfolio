@@ -4,21 +4,30 @@ CompTIA Security+ | Network+ | A+ Certified
 
 Welcome! This portfolio showcases my hands-on IT and cybersecurity projects completed through home labs, virtualization, Windows Server, networking, and system administration. Each project is documented with objectives, screenshots, configuration steps, and lessons learned.
 
-## Skills & Focus Areas
-- Network fundamentals (TCP/IP, DNS, HTTP/HTTPS)
-- Linux systems and command line usage
-- Basic threat detection and incident response concepts
-- Exposure to web security and cloud environments
+---
 
-## Labs & Projects
+## Technical Skills
+- Active Directory
+- Windows Server
+- Windows 10/11
+- VirtualBox
+- PowerShell
+- TCP/IP
+- DNS
+- DHCP
+- Networking Fundamentals
+- System Administration
+- Troubleshooting
 
-### Home Labs
+## Featured Projects
+
+### Active Directory Home Lab
 - [Active Directory Home Lab](./home-labs/active-directory-home-lab.md)
-
-### TryHackMe Labs
-- [System Navigation Lab](./tryhackme-labs/system-navigation-lab.md)
-- [Web Security Lab](./tryhackme-labs/web-security-lab.md)
-- [Cloud & VM Lab](./tryhackme-labs/cloud-vm-lab.md)
+-  Built an Active Directory environment using Windows Server 2019 and VirtualBox
+- Configured DNS, DHCP, NAT, and Domain Services
+- Automated user creation using PowerShell
+- Joined Windows clients to the domain
+- Documented the complete deployment process
   
 ## About Me
-Currently building hands-on IT and cybersecurity skills through home labs, virtual machines, networking, Linux, and practical security exercises while preparing for entry-level IT support roles.
+I am currently pursuing an entry-level IT Support or Help Desk role while continuing to build practical experience through home labs and self-directed learning.
