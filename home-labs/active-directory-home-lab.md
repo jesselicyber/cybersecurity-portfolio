@@ -37,7 +37,7 @@ Configured a virtual environment using VirtualBox with a Windows Server 2019 Dom
 
 ---
 
-## 2. Active Directory Domain Creation
+## 2. Domain Controller Deployment
 
 Created a new Active Directory forest and configured a custom domain (`mydomain.com`) using Active Directory Domain Services.
 
@@ -46,7 +46,7 @@ Created a new Active Directory forest and configured a custom domain (`mydomain.
 
 ---
 
-## 3. Internal Network Configuration
+## 3. Network Configuration
 
 Configured static IP addressing and DNS settings to allow communication between the Domain Controller and client systems.
 
@@ -54,7 +54,7 @@ Configured static IP addressing and DNS settings to allow communication between 
 
 ---
 
-## 4. NAT & Internet Connectivity
+## 4. Network Configuration
 
 Configured NAT and routing so client systems could access the internet while remaining connected to the internal Active Directory environment.
 
@@ -87,7 +87,7 @@ Verified successful creation of user accounts and Organizational Units (OUs) ins
 
 ---
 
-## 8. Domain Join Success
+## 8. Domain Join Verification
 
 Successfully joined the Windows 10 client machine to the Active Directory domain.
 
