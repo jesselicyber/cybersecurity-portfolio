@@ -105,4 +105,12 @@ Verified domain functionality by logging into the Windows client machine using d
 
 ## What I Learned
 
-This lab helped me better understand how Active Directory environments function in enterprise IT settings. I gained hands-on experience configuring Windows Server services, managing users and domains, troubleshooting networking issues, and using PowerShell automation to improve efficiency.
+• Active Directory relies heavily on DNS.
+
+• DHCP automatically distributed IP addresses
+to domain clients.
+
+• PowerShell significantly reduced manual user
+creation.
+
+• Domain joins require proper DNS configuration.
