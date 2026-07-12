@@ -28,8 +28,18 @@ Welcome! This portfolio showcases my hands-on IT and cybersecurity projects comp
 - Automated user creation using PowerShell
 - Joined Windows clients to the domain
 - Documented the complete deployment process
+
+  ## Upcoming Projects
+
+- Windows Server Administration
+- Wireshark Network Analysis
+- Cisco Packet Tracer Networking
+- PowerShell Automation
+- Microsoft Entra ID
   
 ## About Me
-Strong interest in IT infrastructure and cybersecurity, with hands-on experience gained through home labs and self-directed learning using Active Directory, Windows Server, VirtualBox, and TryHackMe. Continuously developing practical skills in networking, troubleshooting, and system administration through real-world projects and hands-on learning. Currently looking for an entry-level IT Support or Help Desk Role where I can continue learning and build a long-term career in technology.
+CompTIA Security+, Network+, and A+ certified with a strong interest in IT infrastructure and cybersecurity. This portfolio showcases the hands-on home labs and technical projects I've built while developing skills in Windows Server, Active Directory, networking, virtualization, and system administration.
+
+Currently seeking an entry-level IT Support, Help Desk, or Security Analyst opportunity.
  
 
