@@ -24,8 +24,7 @@ Welcome! This portfolio showcases my hands-on IT and cybersecurity projects comp
 - Microsoft Entra ID
   
 ## About Me
-I'm passionate about learning IT by building hands-on home labs and real-world projects. This portfolio documents my progress as I develop practical experience with Windows Server, Active Directory, networking, virtualization, and system administration while preparing for an entry-level career in IT.
-
+I'm passionate about learning IT by building hands-on home labs and real-world projects. This portfolio documents my progress as I develop practical experience with Windows Server, Active Directory, networking, virtualization, and system administration. My goal is to continue building practical skills while preparing for an entry-level IT Support or Help Desk role.
 
  
 
