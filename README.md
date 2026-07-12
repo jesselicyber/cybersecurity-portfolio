@@ -15,7 +15,7 @@ Welcome! This portfolio showcases my hands-on IT and cybersecurity projects comp
 - Joined Windows clients to the domain
 - Documented the complete deployment process
 
-  ## Upcoming Projects
+## Upcoming Projects
 
 - Windows Server Administration
 - Wireshark Network Analysis
