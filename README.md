@@ -23,11 +23,13 @@ Welcome! This portfolio showcases my hands-on IT and cybersecurity projects comp
 
 ### Active Directory Home Lab
 - [Active Directory Home Lab](./home-labs/active-directory-home-lab.md)
--  Built an Active Directory environment using Windows Server 2019 and VirtualBox
+- Built an Active Directory environment using Windows Server 2019 and VirtualBox
 - Configured DNS, DHCP, NAT, and Domain Services
 - Automated user creation using PowerShell
 - Joined Windows clients to the domain
 - Documented the complete deployment process
   
 ## About Me
-I am currently pursuing an entry-level IT Support or Help Desk role while continuing to build practical experience through home labs and self-directed learning.
+Strong interest in IT infrastructure and cybersecurity, with hands-on experience gained through home labs and self-directed learning using Active Directory, Windows Server, VirtualBox, and TryHackMe. Continuously developing practical skills in networking, troubleshooting, and system administration through real-world projects and hands-on learning. Currently looking for an entry-level IT Support or Help Desk Role where I can continue learning and build a long-term career in technology.
+ 
+
