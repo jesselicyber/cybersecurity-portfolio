@@ -21,8 +21,7 @@ Welcome! This portfolio showcases my hands-on IT and cybersecurity projects comp
 
 ## Featured Projects
 
-### Active Directory Home Lab
-- [Active Directory Home Lab](./home-labs/active-directory-home-lab.md)
+### [Active Directory Home Lab](./home-labs/active-directory-home-lab.md)
 - Built an Active Directory environment using Windows Server 2019 and VirtualBox
 - Configured DNS, DHCP, NAT, and Domain Services
 - Automated user creation using PowerShell
