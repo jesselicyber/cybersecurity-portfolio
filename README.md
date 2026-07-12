@@ -7,17 +7,14 @@ Welcome! This portfolio showcases my hands-on IT and cybersecurity projects comp
 ---
 
 ## Technical Skills
-- Active Directory
-- Windows Server
-- Windows 10/11
-- VirtualBox
-- PowerShell
-- TCP/IP
-- DNS
-- DHCP
-- Networking Fundamentals
-- System Administration
-- Troubleshooting
+Operating Systems: Windows 10/11, Windows Server, Linux
+Troubleshooting: Hardware, Software, Network Connectivity
+Networking: TCP/IP, DNS, DHCP, IPv4, Subnetting, VPN, Ethernet
+Systems Administration: Active Directory, Organizational Units (OUs)
+Virtualization: VirtualBox, Virtual Machines
+Network Analysis: Wireshark
+Command Line: Windows Command Prompt (CMD), PowerShell, Linux Bash
+
 
 ## Featured Projects
 
