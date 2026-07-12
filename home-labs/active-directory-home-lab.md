@@ -35,6 +35,11 @@ Configured a virtual environment using VirtualBox with a Windows Server 2019 Dom
 
 <img width="890" height="695" alt="chrome_S0ZoZzfCgP" src="https://github.com/user-attachments/assets/e0457ee6-f374-47f8-8344-f962aac06868" />
 
+## Installing Active Directory
+
+Installed Active Directory on Server Manager
+
+<img width="411" height="430" alt="VirtualBoxVM_4MJco1MPB9" src="https://github.com/user-attachments/assets/61b1d20f-ed45-4948-92b6-6c95928ceea0" />
 
 ---
 
