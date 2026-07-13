@@ -45,7 +45,7 @@ Configured settings on multiple GPOs that I created
 
 ## Linking GPOs to Organization Units (OU)
 
-Created Organization Units so I could link the policies I created
+Created Organization Units so I could link the policies I created to groups
 
 <img width="1024" height="768" alt="vmware_6tLkjDgVSO" src="https://github.com/user-attachments/assets/9510af43-850f-43d2-b31e-3cb50a35f68b" />
 
