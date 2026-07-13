@@ -95,6 +95,20 @@ Logged into the Windows 10 client using domain credentials.
 
 <img width="1013" height="764" alt="explorer_EX291cVjUN" src="https://github.com/user-attachments/assets/4701125d-51d3-40cd-84ad-d35d6e6c61bd" />
 
+## Step 6 – Verify Configuration
+
+Verified that the client received a DHCP address, DNS server, gateway, and DNS suffix from the Domain Controller.
+
+<img width="974" height="508" alt="VirtualBoxVM_wbXJbliRZD" src="https://github.com/user-attachments/assets/78a280b9-d298-414d-835c-b4be05a3a712" />
+
+## Verify DNS Resolution
+
+Verified successful DNS resolution and connectivity between the client and the Domain Controller using ping and nslookup.
+
+<img width="540" height="343" alt="VirtualBoxVM_s66daU0ZOB" src="https://github.com/user-attachments/assets/0f2de10d-553d-4d7c-9a4d-4ed06d3a5243" />
+
+
+
 
 
 
