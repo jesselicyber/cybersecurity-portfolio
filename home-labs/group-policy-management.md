@@ -2,7 +2,7 @@
 
 ## Overview
 
-Built a Windows Server 2022 Group Policy Management home lab using Oracle VirtualBox to demonstrate centralized administration in an Active Directory environment. This project focuses on creating, configuring, linking, and testing Group Policy Objects (GPOs) to enforce security policies and user settings across domain-joined Windows 10 clients.
+Built a Windows Server 2022 Group Policy Management home lab using VMWorkstation Pro to demonstrate centralized administration in an Active Directory environment. This project focuses on creating, configuring, linking, and testing Group Policy Objects (GPOs) to enforce security policies and user settings across domain-joined Windows 10 clients.
 
 ---
 
