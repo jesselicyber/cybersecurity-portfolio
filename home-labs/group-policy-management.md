@@ -41,6 +41,11 @@ Configured settings on multiple GPOs that I created
 
 <img width="897" height="557" alt="vmware_shHQlzGmvI" src="https://github.com/user-attachments/assets/0d4f97a3-0ea8-4d5d-9bd0-d93e8d19bc0b" />
 
+<img width="782" height="558" alt="vmware_9VkTNuh8gm" src="https://github.com/user-attachments/assets/412aaaa8-9c5a-4e9a-9f94-c1db91b0451a" />
+
+##
+
+
 
 
 
