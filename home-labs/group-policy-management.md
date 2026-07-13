@@ -63,6 +63,7 @@ Entered adminstrative credentials to authorize the Windows 10 client to join the
 
 <img width="451" height="293" alt="yes4" src="https://github.com/user-attachments/assets/42e2620a-5fc8-4541-acb4-8833b00e5440" />
 
+
 <img width="257" height="147" alt="yes" src="https://github.com/user-attachments/assets/b08a148d-8c69-48a8-900a-f5fb7dfee8ec" />
 
 
