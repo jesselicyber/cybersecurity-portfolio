@@ -29,7 +29,7 @@ Installed Group Policy Management on Windows Server 2022
 
 ## Adding new GPOs
 
-Added new GPOs - Restrict Control Panel, Desktop Wallpaper, Password Policies, Disable USB Devices, and Drive Mapping
+Added new GPOs - Desktop Wallpaper, Disable USB Devices, Drive Mapping, Password Policy, and Restrict Control Panel
 
 <img width="981" height="579" alt="vmware_1RwMiGxZnw" src="https://github.com/user-attachments/assets/ff46cf2c-b0e9-4a0d-92b3-f952b98e1c23" />
 
