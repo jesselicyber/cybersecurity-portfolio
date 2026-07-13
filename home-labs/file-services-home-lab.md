@@ -17,3 +17,9 @@ Built a Windows Server 2022 File Services home lab using VMware Workstation Pro 
 - Command Prompt (CMD)
 
 ---
+
+## Lab Overview
+
+Created the shared folder in File Explorer
+
+<img width="783" height="588" alt="vmware_bgtIslrg3a" src="https://github.com/user-attachments/assets/69c87794-3490-4ece-95b5-705c3013cd55" />
