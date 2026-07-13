@@ -49,13 +49,19 @@ Created Organization Units so I could link the policies I created to groups
 
 <img width="1024" height="768" alt="vmware_6tLkjDgVSO" src="https://github.com/user-attachments/assets/9510af43-850f-43d2-b31e-3cb50a35f68b" />
 
-## Setting up the other Virtual Machine using Windows 10 Pro
+## Setting Virtual Machine #2 using Windows 10 Pro
 
 I used the Windows 10 virtual machine to connect to the domain and configured the IP addresses to connect to the domain
 
 <img width="973" height="505" alt="yes3" src="https://github.com/user-attachments/assets/ed50ac89-281e-454f-b4f2-33f2f70cd8c4" />
 
 <img width="393" height="448" alt="yes5" src="https://github.com/user-attachments/assets/cea6d775-d8dc-45da-96eb-e16bf4b0233e" />
+
+## Verifying DNS Resolution
+
+Verified that the Windows 10 client could successfully resolve to j-li.local domain using nslookup
+
+<img width="308" height="149" alt="yes1" src="https://github.com/user-attachments/assets/c2655633-f6c7-4bd7-957f-ccbe220f0847" />
 
 ## Joining the Domain
 
