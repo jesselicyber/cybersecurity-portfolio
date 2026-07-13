@@ -1,4 +1,4 @@
-# Group Policy Management Home Lab
+# Group Policy Home Lab
 
 ## Overview
 
