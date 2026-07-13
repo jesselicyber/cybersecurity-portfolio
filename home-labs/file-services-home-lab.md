@@ -38,7 +38,7 @@ Switched to the Windows 10 Virtual Machine and mapped the network drive
 
 ## Configure Drive Mapping with Group Policy
 
-Created a GPO in group policy to allow drive mapping and then configured the properties
+Created a GPO in group policy to allow drive mapping
 
 <img width="980" height="577" alt="vmware_KByzRjDazz" src="https://github.com/user-attachments/assets/00c2d00f-d680-4039-a9b0-50d618d2a1d0" />
 
