@@ -57,7 +57,7 @@ Used a PowerShell script to automatically generate hundreds of Active Directory 
 
 Confirmed that the PowerShell script successfully created hundreds of user accounts inside the _USERS Organizational Unit.
 
-<img width="747" height="525" alt="VirtualBoxVM_BGybGLw2rK" src="https://github.com/user-attachments/assets/f79376c3-aca6-493a-9f89-37d4e82d818a" />
+<img width="750" height="525" alt="VirtualBoxVM_mFPVKq41Tc" src="https://github.com/user-attachments/assets/16ee8180-82a4-434d-bfaa-35f3c44467bf" />
 
 ## Step 4 – Configure Network Services
 
