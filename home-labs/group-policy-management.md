@@ -19,15 +19,4 @@ Built a Windows Server 2022 Group Policy Management home lab using Oracle Virtua
 
 ---
 
-## Lab Objectives
-
-- Create Organizational Units (OUs)
-- Configure multiple Group Policy Objects (GPOs)
-- Link GPOs to Organizational Units
-- Join a Windows 10 client to the domain
-- Apply and verify Group Policy settings
-- Demonstrate centralized Windows administration
-
----
-
 ## Lab Environment
