@@ -7,7 +7,7 @@ Built a Windows Server 2022 Active Directory home lab using Oracle VirtualBox. T
 ## Technologies Used
 
 - Windows Server 2022
-- Windows 10
+- Windows 10 Pro
 - Active Directory Domain Services (AD DS)
 - DNS
 - DHCP
