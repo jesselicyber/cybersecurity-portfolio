@@ -2,7 +2,7 @@
 
 ## Overview
 
-Built a Windows Server 2022 Group Policy Management home lab using VMWorkstation Pro to demonstrate centralized administration in an Active Directory environment. This project focuses on creating, configuring, linking, and testing Group Policy Objects (GPOs) to enforce security policies and user settings across domain-joined Windows 10 clients.
+Built a Windows Server 2022 Group Policy Management home lab using VMware Workstation Pro to demonstrate centralized administration in an Active Directory environment. This project focuses on creating, configuring, linking, and testing Group Policy Objects (GPOs) to enforce security policies and user settings across domain-joined Windows 10 clients.
 
 ---
 
@@ -103,7 +103,7 @@ Created and managed Group Policy Objects (GPOs).
 
 ## References
 
-This lab was completed while learning from the Group Policy tutorial by East Charmer. The environment was built, configured, documented, and validated independently using VMWorkstation Pro, Windows Server 2022, and Windows 10.
+This lab was completed while learning from the Group Policy tutorial by East Charmer. The environment was built, configured, documented, and validated independently using VMware Workstation Pro, Windows Server 2022, and Windows 10.
 
 
 
