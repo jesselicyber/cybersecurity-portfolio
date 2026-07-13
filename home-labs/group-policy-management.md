@@ -22,3 +22,23 @@ Built a Windows Server 2022 Group Policy Management home lab using Oracle Virtua
 ## Lab Overview
 
 ## Virtual Environment
+
+Installed Group Policy Management on Windows Server 2022
+
+<img width="778" height="552" alt="vmware_FhqCDR28D6" src="https://github.com/user-attachments/assets/b88523c6-97a2-46dc-b51f-a0f089d63729" />
+
+## Adding new GPOs
+
+Added new GPOs such as Restrict Control Panel, Desktop Wallpaper, Password Policies, Disable USB Devices, and Drive Mapping
+
+<img width="749" height="522" alt="vmware_YNxhtlkDU4" src="https://github.com/user-attachments/assets/2ba57e0f-ad3b-49c4-8cdc-cf0aa1af9d98" />
+
+<img width="746" height="525" alt="vmware_WoLE7Vbb4P" src="https://github.com/user-attachments/assets/3780fc1b-8a07-4dd9-b835-18f38f1eafc7" />
+
+
+
+
+
+
+
+
