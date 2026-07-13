@@ -59,6 +59,27 @@ Confirmed that the PowerShell script successfully created hundreds of user accou
 
 <img width="747" height="525" alt="VirtualBoxVM_BGybGLw2rK" src="https://github.com/user-attachments/assets/f79376c3-aca6-493a-9f89-37d4e82d818a" />
 
+## Step 4 – Configure Network Services
+
+Configured Routing and Remote Access (RRAS) to provide Internet connectivity to internal domain clients through Network Address Translation (NAT).
+
+<img width="666" height="400" alt="VirtualBoxVM_Y4lXDmxc0B" src="https://github.com/user-attachments/assets/395f7e5c-1a84-45ae-b063-354cb6418fa3" />
+
+## Verify Network Adapters 
+
+Configured separate Internal and Internet network adapters for routing between the internal lab network and the Internet.
+
+<img width="777" height="587" alt="VirtualBoxVM_leK8XqRNMY" src="https://github.com/user-attachments/assets/4b0d2dd5-4214-4a6f-a11e-5d1bd14bc01c" />
+
+## Configure DHCP
+
+Created a DHCP scope and verified that the Windows 10 client successfully received an IP address lease.
+
+<img width="666" height="400" alt="VirtualBoxVM_Y4lXDmxc0B" src="https://github.com/user-attachments/assets/66bc978b-436d-4375-b392-a2946f989b9d" />
+
+
+
+
 
 
 
