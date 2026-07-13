@@ -35,3 +35,15 @@ Installed Active Directory Domain Services (AD DS) and promoted the server to a 
 
 <img width="756" height="552" alt="VirtualBoxVM_4k0McOjIy1" src="https://github.com/user-attachments/assets/6cb982aa-387e-4a5e-9193-59c98b20d913" />
 
+## Step 2 – Organize Active Directory
+
+Created Organizational Units (OUs) to separate administrative accounts from standard users.
+
+<img width="431" height="370" alt="VirtualBoxVM_4J8tgVWcwt" src="https://github.com/user-attachments/assets/28096648-8092-4d2d-b77f-681bc7e93a9f" />
+
+## Create an Administrator Account
+
+Created an administrator account inside the ADMINS Organizational Unit for domain administration.
+
+<img width="429" height="370" alt="VirtualBoxVM_MgfuyEtl6k" src="https://github.com/user-attachments/assets/be58148d-59e1-4585-8414-9dea7bf4c9de" />
+
