@@ -43,7 +43,12 @@ Configured settings on multiple GPOs that I created
 
 <img width="782" height="558" alt="vmware_9VkTNuh8gm" src="https://github.com/user-attachments/assets/412aaaa8-9c5a-4e9a-9f94-c1db91b0451a" />
 
-##
+## Linking GPOs to Organization Units (OU)
+
+Created Organization Units so I could link the policies I created
+
+<img width="1024" height="768" alt="vmware_6tLkjDgVSO" src="https://github.com/user-attachments/assets/9510af43-850f-43d2-b31e-3cb50a35f68b" />
+
 
 
 
