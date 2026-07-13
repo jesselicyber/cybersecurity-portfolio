@@ -63,7 +63,7 @@ Confirmed that the PowerShell script successfully created hundreds of user accou
 
 Configured Routing and Remote Access to provide Internet connectivity to internal domain clients through Network Address Translation (NAT).
 
-<img width="666" height="400" alt="VirtualBoxVM_Y4lXDmxc0B" src="https://github.com/user-attachments/assets/395f7e5c-1a84-45ae-b063-354cb6418fa3" />
+<img width="494" height="417" alt="VirtualBoxVM_JmGpRWsHx9" src="https://github.com/user-attachments/assets/ce5ad998-9fc8-420d-b829-1bd1989c4aaa" />
 
 ## Verify Network Adapters 
 
