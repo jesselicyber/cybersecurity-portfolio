@@ -26,7 +26,7 @@ Created a dedicated shared folder on Windows Server 2022 that will be used to ho
 
 ## Configure Share Permissions
 
-Granted the Domain Users security group access to the shared folder allowing authentication
+Granted the Domain Users access to the shared folder allowing authentication
 
 <img width="452" height="244" alt="vmware_amDZjnQRWv" src="https://github.com/user-attachments/assets/5c4cddd6-03f1-4dcf-ae7d-604ab4e4d2e0" />
 
