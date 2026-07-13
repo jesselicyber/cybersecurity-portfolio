@@ -25,6 +25,8 @@ Created a virtual lab consisting of a Windows Server 2022 Domain Controller and 
 
 ## Step 1 – Configure the Domain Controller
 
+### Configure a Static IP Address
+
 Assigned a static IP address to the internal server before installing Active Directory to ensure reliable DNS and domain services.
 
 <img width="393" height="446" alt="VirtualBoxVM_86WdGrf7CS" src="https://github.com/user-attachments/assets/e813e2f2-fecf-458c-af18-94cd4019a52d" />
