@@ -75,7 +75,7 @@ Entered adminstrative credentials to authorize the Windows 10 client to join the
 
 ## Domain User Login
 
-Successfully authenticated to the Active Directory domain using a domain user account, confirming that the Windows 10 client could log in with domain credentials
+Logging in using a domain user account to confirm GPO functionality
 
 <img width="597" height="585" alt="yes 6" src="https://github.com/user-attachments/assets/c81fa15d-987f-4708-9985-2ecc083d952c" />
 
