@@ -81,7 +81,7 @@ Logging in using a domain user account to confirm GPO functionality
 
 ## Verify Group Policy
 
-Verified that the configured Group Policy Objects (GPOs) were successfully applied by testing one of the configured policies, confirming that Control Panel access was restricted on the domain-joined Windows 10 client.
+Verified that one of the GPOs were successfully applied by trying to access Control Panel Access
 
 <img width="416" height="326" alt="vmware_I2n9q0SRED" src="https://github.com/user-attachments/assets/d908c06c-7286-45cd-9ede-f7467f98d992" />
 
