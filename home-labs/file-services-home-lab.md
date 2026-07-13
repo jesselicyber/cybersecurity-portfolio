@@ -20,6 +20,22 @@ Built a Windows Server 2022 File Services home lab using VMware Workstation Pro 
 
 ## Lab Overview
 
-Created the shared folder in File Explorer
+Created a dedicated shared folder on Windows Server 2022 that will be used to host files for network users
 
 <img width="783" height="588" alt="vmware_bgtIslrg3a" src="https://github.com/user-attachments/assets/69c87794-3490-4ece-95b5-705c3013cd55" />
+
+## Configure Share Permissions
+
+Granted the Domain Users security group access to the shared folder allowing authentication
+
+<img width="452" height="244" alt="vmware_amDZjnQRWv" src="https://github.com/user-attachments/assets/5c4cddd6-03f1-4dcf-ae7d-604ab4e4d2e0" />
+
+## Mapping the Network Drive
+
+Switched to the Windows 10 Virtual Machine and mapped the network drive
+
+<img width="610" height="448" alt="vmware_6cToyNuA2b" src="https://github.com/user-attachments/assets/1bb97c16-3abe-4ca3-a621-26404c5238e2" />
+
+
+
+
