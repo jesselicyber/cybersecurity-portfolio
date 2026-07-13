@@ -15,6 +15,7 @@ Built a Windows Server 2022 Group Policy Management home lab using VMWorkstation
 - Group Policy Management Console (GPMC)
 - DNS
 - Group Policy Objects (GPOs)
+- Command Prompt (CMD)
 
 ---
 
