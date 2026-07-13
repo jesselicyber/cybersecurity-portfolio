@@ -15,9 +15,12 @@ Welcome! This portfolio showcases my hands-on IT and cybersecurity projects comp
 - Joined Windows clients to the domain
 - Documented the complete deployment process
 
-## Upcoming Projects
-
-- (To Be Determined)
+## [Active Directory Home Lab](Active-Directory-Home-Lab)
+- Configured Active Directory Group Policy Objects (GPOs).
+- Created Organizational Units (OUs) and managed user accounts.
+- Applied security and desktop restriction policies.
+- Verified GPO functionality through domain user testing.
+- Documented the complete implementation process.
 
   
 ## About Me
