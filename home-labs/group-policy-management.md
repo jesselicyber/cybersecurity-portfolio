@@ -57,9 +57,9 @@ I used the Windows 10 virtual machine to connect to the domain and configured th
 
 <img width="393" height="448" alt="yes5" src="https://github.com/user-attachments/assets/cea6d775-d8dc-45da-96eb-e16bf4b0233e" />
 
-## Joining the Domain (J-LI.local)
+## Joining the Domain I created called (J-LI.local)
 
-Entered adminstrative credentials so I could gain access to the domain
+Entered adminstrative credentials to authorize the Windows 10 client to join the Active Directory Domain
 
 <img width="451" height="293" alt="yes4" src="https://github.com/user-attachments/assets/42e2620a-5fc8-4541-acb4-8833b00e5440" />
 
