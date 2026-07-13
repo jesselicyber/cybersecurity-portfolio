@@ -53,7 +53,7 @@ Created Organization Units so I could link the policies I created to groups
 
 I used the Windows 10 virtual machine to connect to the domain and configured the IP addresses to connect to the domain
 
-<img width="973" height="505" alt="yes3" src="https://github.com/user-attachments/assets/ed50ac89-281e-454f-b4f2-33f2f70cd8c4" />
+<img width="973" height="508" alt="vmware_rkMixlxCAt" src="https://github.com/user-attachments/assets/95c29ad7-9411-4e99-b4e2-d0e17600e614" />
 
 <img width="393" height="448" alt="yes5" src="https://github.com/user-attachments/assets/cea6d775-d8dc-45da-96eb-e16bf4b0233e" />
 
