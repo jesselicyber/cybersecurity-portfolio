@@ -43,7 +43,7 @@ Installed Active Directory Domain Services and promoted the server to a Domain C
 
 ---
 
-## 3. Step 2 – Organize Active Directory
+## Step 2 – Organize Active Directory
 
 ## Create Organization Units (Admin OU)
 
