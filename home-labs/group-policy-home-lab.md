@@ -6,7 +6,7 @@ Built a Windows Server 2022 Group Policy Management home lab using VMware Workst
 
 ---
 
-## Technologies Used
+## Tools Used
 
 - Windows Server 2022
 - Windows 10 Pro
