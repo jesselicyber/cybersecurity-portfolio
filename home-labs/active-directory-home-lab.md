@@ -51,7 +51,7 @@ Created an administrator account inside the ADMINS Organizational Unit for domai
 
 Used a PowerShell script to automatically generate hundreds of Active Directory user accounts from a text file instead of creating each account manually.
 
-<img width="898" height="620" alt="VirtualBoxVM_HQo9NLGrLt" src="https://github.com/user-attachments/assets/09fc583d-44fc-46da-8369-eaa0f3e034d3" />
+<img width="649" height="235" alt="VirtualBoxVM_BljGRVDkIk" src="https://github.com/user-attachments/assets/140d95b9-322b-4f71-9991-d1972eb0f79b" />
 
 ## Verify User Creation
 
@@ -76,6 +76,25 @@ Configured separate Internal and Internet network adapters for routing between t
 Created a DHCP scope and verified that the Windows 10 client successfully received an IP address lease.
 
 <img width="666" height="400" alt="VirtualBoxVM_Y4lXDmxc0B" src="https://github.com/user-attachments/assets/66bc978b-436d-4375-b392-a2946f989b9d" />
+
+## Step 5 – Join the Client to the Domain
+
+Joined the Windows 10 workstation to the mydomain.com domain.
+
+<img width="317" height="385" alt="VirtualBoxVM_75Osfb5ZBt" src="https://github.com/user-attachments/assets/e325f031-28c4-4ab0-887f-d8bf24da521c" />
+
+## Verify Successful Domain Join
+
+Confirmed the client successfully joined the Active Directory domain.
+
+<img width="297" height="147" alt="VirtualBoxVM_2qiWfQeeaa" src="https://github.com/user-attachments/assets/3ab343c8-a99f-42d1-bf47-0f68524c7f21" />
+
+## Domain Login
+
+Logged into the Windows 10 client using domain credentials.
+
+<img width="1013" height="764" alt="explorer_EX291cVjUN" src="https://github.com/user-attachments/assets/4701125d-51d3-40cd-84ad-d35d6e6c61bd" />
+
 
 
 
