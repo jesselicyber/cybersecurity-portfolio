@@ -91,15 +91,15 @@ Verified that one of the GPOs (Disabling Control Panel) was successfully applied
 
 Created and managed Group Policy Objects (GPOs).
 
-Linked GPOs to Organizational Units (OUs).
+- Linked GPOs to Organizational Units (OUs).
 
-Configured user and computer policy settings.
+- Configured user and computer policy settings.
 
-Tested and verified Group Policy deployment on a domain-joined Windows 10 client.
+- Tested and verified Group Policy deployment on a domain-joined Windows 10 client.
 
-Used Command Prompt utilities to validate domain connectivity and DNS resolution.
+- Used Command Prompt utilities to validate domain connectivity and DNS resolution.
 
-Troubleshot and confirmed successful Group Policy application.
+- Troubleshot and confirmed successful Group Policy application.
 
 ## References
 
