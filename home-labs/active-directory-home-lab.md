@@ -22,4 +22,15 @@ Built a Windows Server 2022 Active Directory home lab using Oracle VirtualBox. T
 Created a virtual lab environment consisting of a Windows Server 2022 Domain Controller and a Windows 10 client machine using Oracle VirtualBox.
 
 <img width="962" height="618" alt="VirtualBox_tsMaVAOKup" src="https://github.com/user-attachments/assets/1878be23-5b62-438b-bb19-957278cecd83" />
+
+## Step 1 – Configure the Domain Controller
+
+Assigned a static IP address to the internal server before installing Active Directory to ensure reliable DNS and domain services.
+
+<img width="393" height="446" alt="VirtualBoxVM_86WdGrf7CS" src="https://github.com/user-attachments/assets/182e4599-e9f3-46f6-a0fd-806e3a5bcb0c" />
+
+Create a New Active Directory Forest
+
+Installed Active Directory Domain Services (AD DS) and promoted the server to a Domain Controller by creating the mydomain.com forest.
+
   
