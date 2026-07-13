@@ -1,4 +1,3 @@
-<img width="165" height="146" alt="vmware_Ku6frTFcDr" src="https://github.com/user-attachments/assets/da903973-e0ea-42b5-89ce-1b2df327b34f" />
 # Group Policy Management Home Lab
 
 ## Overview
