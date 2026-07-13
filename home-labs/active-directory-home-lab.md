@@ -17,8 +17,6 @@ Built a Windows Server 2022 Active Directory home lab using Oracle VirtualBox. T
 
 ## Lab Overview
 
-### Virtual Environment
-
 Created a virtual lab environment consisting of a Windows Server 2022 Domain Controller and a Windows 10 client machine using Oracle VirtualBox.
 
 <img width="954" height="611" alt="VirtualBox_kIlKOB68Sm" src="https://github.com/user-attachments/assets/19784c82-a8e9-476f-97c7-ee3c04374a2e" />
