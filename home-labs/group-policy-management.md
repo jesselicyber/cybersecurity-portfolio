@@ -87,8 +87,18 @@ Verified that one of the GPOs (Disabling Control Panel) was successfully applied
 
 <img width="551" height="128" alt="yes 7" src="https://github.com/user-attachments/assets/9e6f88d8-ff07-4a08-94da-9322d7b31d7a" />
 
+## Key Takeaways
 
+Created and managed Group Policy Objects (GPOs).
+Linked GPOs to Organizational Units (OUs).
+Configured user and computer policy settings.
+Tested and verified Group Policy deployment on a domain-joined Windows 10 client.
+Used Command Prompt utilities to validate domain connectivity and DNS resolution.
+Troubleshot and confirmed successful Group Policy application.
 
+## References
+
+This lab was completed while learning from the Group Policy tutorial by East Charmer. The environment was built, configured, documented, and validated independently using VMWorkstation Pro, Windows Server 2022, and Windows 10.
 
 
 
