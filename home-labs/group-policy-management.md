@@ -33,7 +33,8 @@ Added new GPOs such as Restrict Control Panel, Desktop Wallpaper, Password Polic
 
 <img width="749" height="522" alt="vmware_YNxhtlkDU4" src="https://github.com/user-attachments/assets/2ba57e0f-ad3b-49c4-8cdc-cf0aa1af9d98" />
 
-<img width="746" height="525" alt="vmware_WoLE7Vbb4P" src="https://github.com/user-attachments/assets/3780fc1b-8a07-4dd9-b835-18f38f1eafc7" />
+<img width="682" height="630" alt="vmware_uoPhwziTCQ" src="https://github.com/user-attachments/assets/85928211-2c4a-422c-9147-2b158d261c3f" />
+
 
 
 
