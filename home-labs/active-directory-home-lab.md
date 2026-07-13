@@ -32,11 +32,11 @@ Assigned a static IP address to the internal server before installing Active Dir
 
 ---
 
-## 2. Domain Controller Deployment
+## 2. Create a New Active Directory Forest
 
-Created a new Active Directory forest and configured a custom domain (`mydomain.com`) using Active Directory Domain Services.
+Installed Active Directory Domain Services and promoted the server to a Domain Controller by creating the mydomain.com forest.
 
-<img width="752" height="552" alt="Domain Creation" src="https://github.com/user-attachments/assets/bfb4687a-e06a-41aa-bf86-371e7426a220" />
+<img width="756" height="552" alt="VirtualBoxVM_4k0McOjIy1" src="https://github.com/user-attachments/assets/8b640104-5bbb-4caf-9c1f-c6ed0a671ddc" />
 
 
 ---
