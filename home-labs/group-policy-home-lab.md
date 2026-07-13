@@ -21,8 +21,6 @@ Built a Windows Server 2022 Group Policy Management home lab using VMware Workst
 
 ## Lab Overview
 
-## Virtual Environment
-
 Installed Group Policy Management on Windows Server 2022
 
 <img width="778" height="552" alt="vmware_FhqCDR28D6" src="https://github.com/user-attachments/assets/b88523c6-97a2-46dc-b51f-a0f089d63729" />
