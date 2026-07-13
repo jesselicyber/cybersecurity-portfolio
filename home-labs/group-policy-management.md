@@ -10,7 +10,7 @@ Built a Windows Server 2022 Group Policy Management home lab using VMWorkstation
 
 - Windows Server 2022
 - Windows 10 Pro
-- VMWorkstation Pro
+- VMware Workstation Pro
 - Active Directory Domain Services (AD DS)
 - Group Policy Management Console (GPMC)
 - DNS
