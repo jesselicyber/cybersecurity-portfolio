@@ -45,8 +45,6 @@ Installed Active Directory Domain Services and promoted the server to a Domain C
 
 ## Step 2 – Organize Active Directory
 
-## Create Organization Units (Admin OU)
-
 Created Organizational Units (OUs) to separate administrative accounts from standard users.
 <img width="431" height="370" alt="VirtualBoxVM_4J8tgVWcwt" src="https://github.com/user-attachments/assets/3cd3ef3a-94ca-457e-b2c4-07bef7f3a867" />
 
