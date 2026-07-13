@@ -23,11 +23,12 @@ Created a virtual lab consisting of a Windows Server 2022 Domain Controller and 
 
 <img width="962" height="618" alt="VirtualBox_tsMaVAOKup" src="https://github.com/user-attachments/assets/6817ef79-fa79-4345-a7e9-6b0599f46686" />
 
-## Installing Active Directory
+## Step 1 – Configure the Domain Controller
 
-Installed Active Directory on Server Manager
+Assigned a static IP address to the server before installing Active Directory to ensure reliable DNS and domain services.
 
-<img width="411" height="430" alt="VirtualBoxVM_4MJco1MPB9" src="https://github.com/user-attachments/assets/61b1d20f-ed45-4948-92b6-6c95928ceea0" />
+<img width="393" height="446" alt="VirtualBoxVM_86WdGrf7CS" src="https://github.com/user-attachments/assets/e813e2f2-fecf-458c-af18-94cd4019a52d" />
+
 
 ---
 
