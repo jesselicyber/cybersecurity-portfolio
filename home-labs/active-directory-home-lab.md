@@ -29,8 +29,9 @@ Assigned a static IP address to the internal server before installing Active Dir
 
 <img width="393" height="446" alt="VirtualBoxVM_86WdGrf7CS" src="https://github.com/user-attachments/assets/182e4599-e9f3-46f6-a0fd-806e3a5bcb0c" />
 
-Create a New Active Directory Forest
+## Create a New Active Directory Forest
 
 Installed Active Directory Domain Services (AD DS) and promoted the server to a Domain Controller by creating the mydomain.com forest.
 
-  
+<img width="756" height="552" alt="VirtualBoxVM_4k0McOjIy1" src="https://github.com/user-attachments/assets/6cb982aa-387e-4a5e-9193-59c98b20d913" />
+
