@@ -61,7 +61,7 @@ Confirmed that the PowerShell script successfully created hundreds of user accou
 
 ## Step 4 – Configure Network Services
 
-Configured Routing and Remote Access (RRAS) to provide Internet connectivity to internal domain clients through Network Address Translation (NAT).
+Configured Routing and Remote Access to provide Internet connectivity to internal domain clients through Network Address Translation (NAT).
 
 <img width="666" height="400" alt="VirtualBoxVM_Y4lXDmxc0B" src="https://github.com/user-attachments/assets/395f7e5c-1a84-45ae-b063-354cb6418fa3" />
 
