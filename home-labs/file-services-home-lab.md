@@ -6,7 +6,7 @@ Built a Windows Server 2022 File Services home lab using VMware Workstation Pro 
 
 ---
 
-## Technologies Used
+## Tools Used
 
 - Windows Server 2022
 - Windows 10 Pro
