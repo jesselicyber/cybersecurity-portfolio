@@ -23,7 +23,7 @@ Created a virtual lab environment consisting of a Windows Server 2022 Domain Con
 
 <img width="954" height="611" alt="VirtualBox_kIlKOB68Sm" src="https://github.com/user-attachments/assets/19784c82-a8e9-476f-97c7-ee3c04374a2e" />
 
-## Step 1 – Configure the Domain Controller
+## Configure the Domain Controller
 
 Assigned a static IP address to the internal server before installing Active Directory to ensure reliable DNS and domain services.
 
@@ -35,7 +35,7 @@ Installed Active Directory Domain Services (AD DS) and promoted the server to a 
 
 <img width="756" height="552" alt="VirtualBoxVM_4k0McOjIy1" src="https://github.com/user-attachments/assets/6cb982aa-387e-4a5e-9193-59c98b20d913" />
 
-## Step 2 – Organize Active Directory
+## Organize Active Directory
 
 Created Organizational Units (OUs) to separate administrative accounts from standard users.
 
@@ -47,7 +47,7 @@ Created an administrator account inside the ADMINS Organizational Unit for domai
 
 <img width="429" height="370" alt="VirtualBoxVM_MgfuyEtl6k" src="https://github.com/user-attachments/assets/be58148d-59e1-4585-8414-9dea7bf4c9de" />
 
-## Step 3 – Automate User Creation
+## Automate User Creation
 
 Used a PowerShell script to automatically generate hundreds of Active Directory user accounts from a text file instead of creating each account manually.
 
@@ -65,7 +65,7 @@ Confirmed that the PowerShell script successfully created hundreds of user accou
 
 <img width="750" height="525" alt="VirtualBoxVM_mFPVKq41Tc" src="https://github.com/user-attachments/assets/16ee8180-82a4-434d-bfaa-35f3c44467bf" />
 
-## Step 4 – Configure Network Services
+## Configure Network Services
 
 Configured Routing and Remote Access to provide Internet connectivity to internal domain clients through Network Address Translation (NAT).
 
@@ -83,7 +83,7 @@ Created a DHCP scope and verified that the Windows 10 client successfully receiv
 
 <img width="666" height="400" alt="VirtualBoxVM_Y4lXDmxc0B" src="https://github.com/user-attachments/assets/66bc978b-436d-4375-b392-a2946f989b9d" />
 
-## Step 5 – Join the Client to the Domain
+## Join the Client to the Domain
 
 Joined the Windows 10 workstation to the mydomain.com domain.
 
@@ -101,7 +101,7 @@ Logged into the Windows 10 client using domain credentials.
 
 <img width="1013" height="764" alt="explorer_EX291cVjUN" src="https://github.com/user-attachments/assets/4701125d-51d3-40cd-84ad-d35d6e6c61bd" />
 
-## Step 6 – Verify Configuration
+## Verify Configuration
 
 Verified that the client received a DHCP address, DNS server, gateway, and DNS suffix from the Domain Controller.
 
