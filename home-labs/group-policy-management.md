@@ -35,7 +35,9 @@ Added new GPOs such as Restrict Control Panel, Desktop Wallpaper, Password Polic
 
 ## Configuring the GPOs
 
-Configured settings on multiple GPOs
+Configured settings on multiple GPOs that I created
+
+<img width="682" height="633" alt="vmware_Txp1uzOBib" src="https://github.com/user-attachments/assets/7a32ee50-5e1e-4b25-b5f3-724e25320c6b" />
 
 <img width="782" height="558" alt="vmware_9VkTNuh8gm" src="https://github.com/user-attachments/assets/9a9cdbd5-16fb-4e09-8b55-7360c3c31c58" />
 
