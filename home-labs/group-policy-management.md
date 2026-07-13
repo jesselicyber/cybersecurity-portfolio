@@ -59,9 +59,11 @@ I used the Windows 10 virtual machine to connect to the domain and configured th
 
 ## Verifying DNS Resolution
 
-Verified that the Windows 10 client could successfully resolve to j-li.local domain using nslookup
+Verified that the Windows 10 client could successfully connect to j-li.local domain using nslookup and the ping command
 
 <img width="308" height="149" alt="yes1" src="https://github.com/user-attachments/assets/c2655633-f6c7-4bd7-957f-ccbe220f0847" />
+
+<img width="972" height="508" alt="vmware_DA0cJtNiVx" src="https://github.com/user-attachments/assets/1732d46b-9109-437a-bc89-f1b6f1bb692b" />
 
 ## Joining the Domain
 
