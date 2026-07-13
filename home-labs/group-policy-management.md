@@ -14,7 +14,6 @@ Built a Windows Server 2022 Group Policy Management home lab using VMWorkstation
 - Active Directory Domain Services (AD DS)
 - Group Policy Management Console (GPMC)
 - DNS
-- PowerShell
 - Group Policy Objects (GPOs)
 
 ---
