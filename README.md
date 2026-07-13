@@ -15,7 +15,7 @@ Welcome! This portfolio showcases my hands-on IT and cybersecurity projects comp
 - Joined Windows clients to the domain
 - Documented the complete deployment process
 
-### [Group Policy Home Lab](https://github.com/yourusername/group-policy-home-lab)
+### [Group Policy Home Lab](./home-labs/group-policy-management.md)
 - Configured Active Directory Group Policy Objects (GPOs).
 - Created Organizational Units (OUs) and managed user accounts.
 - Applied security and desktop restriction policies.
