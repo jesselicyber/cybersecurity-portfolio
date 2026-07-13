@@ -113,7 +113,21 @@ Verified successful DNS resolution and connectivity between the client and the D
 
 <img width="540" height="343" alt="VirtualBoxVM_s66daU0ZOB" src="https://github.com/user-attachments/assets/0f2de10d-553d-4d7c-9a4d-4ed06d3a5243" />
 
+## Key Takeaways
 
+Through this project, I learned how to:
+
+- Deploy and configure a Windows Server 2022 Domain Controller.
+- Create and manage an Active Directory forest, Organizational Units (OUs), and user accounts.
+- Configure DNS, DHCP, and NAT to provide network connectivity for domain clients.
+- Automate bulk user creation using PowerShell scripting.
+- Join Windows 10 clients to an Active Directory domain and verify authentication.
+- Troubleshoot common networking and domain-join issues using tools such as `ipconfig`, `ping`, and `nslookup`.
+- Document and validate each stage of an enterprise Active Directory deployment.
+
+## References
+
+This lab was inspired by and built while learning from Josh Madakor's Active Directory Home Lab tutorial, with additional troubleshooting, documentation, and configuration completed independently.
 
 
 
