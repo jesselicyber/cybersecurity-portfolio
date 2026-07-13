@@ -49,11 +49,9 @@ Created Organization Units so I could link the policies I created to groups
 
 <img width="1024" height="768" alt="vmware_6tLkjDgVSO" src="https://github.com/user-attachments/assets/9510af43-850f-43d2-b31e-3cb50a35f68b" />
 
-<img width="165" height="146" alt="vmware_Ku6frTFcDr" src="https://github.com/user-attachments/assets/89a4a976-f29c-49ea-b849-c6113a1c4348" />
-
 ## Setting up the other Virtual Machine using Windows 10 Pro
 
-I used the Windows 10 virtual machine to connect to the domain and configure IP addresses
+I used the Windows 10 virtual machine to connect to the domain and configured the IP addresses to connect to the domain
 
 <img width="973" height="505" alt="yes3" src="https://github.com/user-attachments/assets/ed50ac89-281e-454f-b4f2-33f2f70cd8c4" />
 
