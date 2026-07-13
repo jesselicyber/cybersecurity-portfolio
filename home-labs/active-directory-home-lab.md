@@ -13,17 +13,6 @@ Built a Windows Server 2022 Active Directory home lab using VirtualBox. Configur
 - PowerShell
 - Oracle VirtualBox
 
-## Skills Practiced
-- Active Directory installation & configuration
-- Domain creation and management
-- DHCP configuration
-- DNS configuration
-- Organizational Units (OUs)
-- Domain joining Windows clients
-- PowerShell user automation
-- Basic networking and troubleshooting
-- Windows administration
-
 ---
 
 # Lab Architecture
