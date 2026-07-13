@@ -19,4 +19,6 @@ Built a Windows Server 2022 Group Policy Management home lab using Oracle Virtua
 
 ---
 
-## Lab Environment
+## Lab Overview
+
+## Virtual Environment
