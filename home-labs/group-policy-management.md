@@ -73,13 +73,21 @@ Entered adminstrative credentials to authorize the Windows 10 client to join the
 
 <img width="257" height="147" alt="yes" src="https://github.com/user-attachments/assets/b08a148d-8c69-48a8-900a-f5fb7dfee8ec" />
 
-## User Account Login / GPO Verification
+## User Account Login 
 
-Logged in to my user account to verify GPO functionality and confirm that they were working as intended
+Logging in to my user account on the domain
 
 <img width="597" height="585" alt="yes 6" src="https://github.com/user-attachments/assets/c81fa15d-987f-4708-9985-2ecc083d952c" />
 
-<img width="551" height="128" alt="yes 7" src="https://github.com/user-attachments/assets/b3fd6624-59e0-4de5-9f2a-82d7844e33a1" />
+## GPO Verification
+
+Tested my GPOs to see if they were working by trying to access the control panel and confirmed it was disabled
+
+<img width="416" height="326" alt="vmware_I2n9q0SRED" src="https://github.com/user-attachments/assets/d908c06c-7286-45cd-9ede-f7467f98d992" />
+
+<img width="551" height="128" alt="yes 7" src="https://github.com/user-attachments/assets/9e6f88d8-ff07-4a08-94da-9322d7b31d7a" />
+
+
 
 
 
