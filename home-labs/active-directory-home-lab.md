@@ -43,11 +43,12 @@ Installed Active Directory Domain Services and promoted the server to a Domain C
 
 ---
 
-## 3. Network Configuration
+## 3. Step 2 – Organize Active Directory
 
-Configured static IP addressing and DNS settings to allow communication between the Domain Controller and client systems.
+## Create Organization Units (Admin OU)
 
-<img width="389" height="443" alt="chrome_v6hNDkCvqP" src="https://github.com/user-attachments/assets/5f5fb1e9-65d3-48d5-8b39-acd63db1ffd8" />
+Created Organizational Units (OUs) to separate administrative accounts from standard users.
+<img width="431" height="370" alt="VirtualBoxVM_4J8tgVWcwt" src="https://github.com/user-attachments/assets/3cd3ef3a-94ca-457e-b2c4-07bef7f3a867" />
 
 ---
 
