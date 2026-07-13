@@ -73,15 +73,15 @@ Entered adminstrative credentials to authorize the Windows 10 client to join the
 
 <img width="257" height="147" alt="yes" src="https://github.com/user-attachments/assets/b08a148d-8c69-48a8-900a-f5fb7dfee8ec" />
 
-## User Account Login 
+## Domain User Login
 
-Logging in to my user account on the domain
+Successfully authenticated to the Active Directory domain using a domain user account, confirming that the Windows 10 client could log in with domain credentials
 
 <img width="597" height="585" alt="yes 6" src="https://github.com/user-attachments/assets/c81fa15d-987f-4708-9985-2ecc083d952c" />
 
-## GPO Verification
+## Verify Group Policy
 
-Tested my GPOs to see if they were working by trying to access the control panel and confirmed it was disabled
+Verified that the configured Group Policy Objects (GPOs) were successfully applied by testing one of the configured policies, confirming that Control Panel access was restricted on the domain-joined Windows 10 client.
 
 <img width="416" height="326" alt="vmware_I2n9q0SRED" src="https://github.com/user-attachments/assets/d908c06c-7286-45cd-9ede-f7467f98d992" />
 
