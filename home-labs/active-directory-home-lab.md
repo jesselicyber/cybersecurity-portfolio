@@ -1,17 +1,17 @@
 # Active Directory Home Lab
 
 ## Objective
-Built an Active Directory home lab using Windows Server 2019, Windows 10, and VirtualBox to simulate a small enterprise network. Practiced Windows administration, domain services, networking, DHCP, DNS, user management, and PowerShell automation.
+Built a Windows Server 2022 Active Directory home lab using VirtualBox. Configured Active Directory Domain Services (AD DS), DNS, DHCP, and NAT, automated user creation with PowerShell, and joined a Windows 10 client to the domain to simulate a small enterprise environment.
 
 ## Tools Used
-- Windows Server 2019
+- Windows Server 2022
 - Windows 10
-- Oracle VirtualBox
 - Active Directory Domain Services (AD DS)
-- DHCP
 - DNS
+- DHCP
+- Routing and Remote Access (NAT)
 - PowerShell
-- NAT / Routing
+- Oracle VirtualBox
 
 ## Skills Practiced
 - Active Directory installation & configuration
