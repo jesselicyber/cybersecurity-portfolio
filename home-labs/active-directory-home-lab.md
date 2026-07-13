@@ -53,6 +53,8 @@ Used a PowerShell script to automatically generate hundreds of Active Directory 
 
 <img width="903" height="624" alt="VirtualBoxVM_nsd6gTh2au" src="https://github.com/user-attachments/assets/d3f46b34-a197-435a-9f5c-5133dfa5a43c" />
 
+## Script running in progress
+
 <img width="649" height="235" alt="VirtualBoxVM_BljGRVDkIk" src="https://github.com/user-attachments/assets/140d95b9-322b-4f71-9991-d1972eb0f79b" />
 
 ## Verify User Creation
