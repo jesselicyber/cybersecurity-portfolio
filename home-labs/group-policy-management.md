@@ -79,9 +79,9 @@ Logging in using a domain user account to confirm GPO functionality
 
 <img width="597" height="585" alt="yes 6" src="https://github.com/user-attachments/assets/c81fa15d-987f-4708-9985-2ecc083d952c" />
 
-## Verify Group Policy
+## Group Policy Verification
 
-Verified that one of the GPOs were successfully applied by trying to access Control Panel Access
+Verified that one of the GPOs (Disabling Control Panel) was successfully applied by trying to access Control Panel 
 
 <img width="416" height="326" alt="vmware_I2n9q0SRED" src="https://github.com/user-attachments/assets/d908c06c-7286-45cd-9ede-f7467f98d992" />
 
