@@ -26,14 +26,13 @@ Built a Windows Server 2022 Active Directory home lab using VirtualBox. Configur
 
 ---
 
-# Lab Walkthrough
+# Lab Architecture
 
 ## Virtual Environment Setup
 
-Configured a virtual environment using VirtualBox with a Windows Server 2019 Domain Controller (DC) and Windows 10 client machine.
+Created a virtual lab consisting of a Windows Server 2022 Domain Controller and a Windows 10 client machine using Oracle VirtualBox.
 
-
-<img width="890" height="695" alt="chrome_S0ZoZzfCgP" src="https://github.com/user-attachments/assets/e0457ee6-f374-47f8-8344-f962aac06868" />
+<img width="962" height="618" alt="VirtualBox_tsMaVAOKup" src="https://github.com/user-attachments/assets/6817ef79-fa79-4345-a7e9-6b0599f46686" />
 
 ## Installing Active Directory
 
