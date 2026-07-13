@@ -32,7 +32,7 @@ Assigned a static IP address to the internal server before installing Active Dir
 
 ---
 
-## 2. Create a New Active Directory Forest
+## Create a New Active Directory Forest
 
 Installed Active Directory Domain Services and promoted the server to a Domain Controller by creating the mydomain.com forest.
 
