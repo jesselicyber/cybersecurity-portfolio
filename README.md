@@ -13,20 +13,20 @@ Welcome! This portfolio showcases my hands-on IT and cybersecurity projects comp
 - Configured DNS, DHCP, NAT, and Domain Services
 - Automated user creation using PowerShell
 - Joined Windows clients to the domain
-- Documented the complete deployment process
+- Configured enterprise authentication and user management.
 
 ### [Group Policy Home Lab](./home-labs/group-policy-home-lab.md)
 - Configured Active Directory Group Policy Objects (GPOs).
 - Created Organizational Units (OUs) and managed user accounts.
 - Applied security and desktop restriction policies.
 - Verified GPO functionality through domain user testing.
-- Documented the complete implementation process.
+- Centralized Windows configuration using Group Policy.
 
 ### [File Services Home Lab](./home-labs/file-services-home-lab.md)
 - Configured SMB file sharing and NTFS permissions.
 - Automated mapped network drives using Group Policy Preferences.
 - Implemented storage quotas and file screening with File Server Resource Manager (FSRM).
-- Documented the complete implementation process.
+- Centralized Windows configuration using Group Policy.
 
   
 ## About Me
