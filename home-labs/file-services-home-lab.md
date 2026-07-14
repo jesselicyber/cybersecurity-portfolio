@@ -32,7 +32,7 @@ Granted the Domain Users access to the shared folder allowing authentication
 
 <img width="452" height="244" alt="vmware_amDZjnQRWv" src="https://github.com/user-attachments/assets/5c4cddd6-03f1-4dcf-ae7d-604ab4e4d2e0" />
 
-## Mapping the Network Drive on Windows 10 
+## Mapping the Network Drive
 
 Switched to the Windows 10 Virtual Machine and mapped the network drive
 
