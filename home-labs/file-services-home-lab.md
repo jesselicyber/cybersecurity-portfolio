@@ -56,7 +56,7 @@ This section demonstrates how Group Policy Preferences can automatically deploy 
 
 ## Configure Drive Mapping with Group Policy
 
-Created a GPO in group policy to allow drive mapping
+Created a Group Policy Object (GPO) to automatically deploy a mapped network drive to domain users
 
 <img width="980" height="577" alt="vmware_KByzRjDazz" src="https://github.com/user-attachments/assets/00c2d00f-d680-4039-a9b0-50d618d2a1d0" />
 
