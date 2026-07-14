@@ -24,6 +24,8 @@ I will be using VMware Workstation to create a machine for Windows Server 2022 a
 
 <img width="769" height="238" alt="vmware_zaRcXYM4qt" src="https://github.com/user-attachments/assets/01c3f1f6-03ca-4d2f-ae5b-d23f30275d55" />
 
+## Part 1 – Configure File Sharing
+
 ## Folder Creation
 
 Created a dedicated shared folder on Windows Server 2022 that will be used to host files for network users
@@ -44,8 +46,9 @@ Switched to the Windows 10 Virtual Machine and mapped the network drive
 
 <img width="784" height="591" alt="vmware_T0MehHBcqs" src="https://github.com/user-attachments/assets/c5c5a8df-f705-481f-a3cf-424b42f00a10" />
 
-
 <img width="610" height="448" alt="vmware_6cToyNuA2b" src="https://github.com/user-attachments/assets/1bb97c16-3abe-4ca3-a621-26404c5238e2" />
+
+## Part 2 – Automate Drive Mapping with Group Policy
 
 ## Configure Drive Mapping with Group Policy
 
@@ -66,6 +69,8 @@ Ran the gpupdate /force command to immediately apply the latest Group Policy set
 Verified that the S: network drive was successfully deployed
 
 <img width="164" height="79" alt="vmware_X6MwqTy6wy" src="https://github.com/user-attachments/assets/4adf6a0c-9bdd-4a8b-89ed-7a4ccdbaac73" />
+
+## Part 3 – Configure File Server Resource Manager (FSRM)
 
 ## Install File Server Resource Manager
 
