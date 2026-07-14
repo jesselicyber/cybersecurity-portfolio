@@ -36,6 +36,9 @@ Granted the Domain Users access to the shared folder allowing authentication
 
 Switched to the Windows 10 Virtual Machine and mapped the network drive
 
+<img width="784" height="591" alt="vmware_T0MehHBcqs" src="https://github.com/user-attachments/assets/c5c5a8df-f705-481f-a3cf-424b42f00a10" />
+
+
 <img width="610" height="448" alt="vmware_6cToyNuA2b" src="https://github.com/user-attachments/assets/1bb97c16-3abe-4ca3-a621-26404c5238e2" />
 
 ## Configure Drive Mapping with Group Policy
