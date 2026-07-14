@@ -24,7 +24,7 @@ I will be using VMware Workstation to create a machine for Windows Server 2022 a
 
 <img width="769" height="238" alt="vmware_zaRcXYM4qt" src="https://github.com/user-attachments/assets/01c3f1f6-03ca-4d2f-ae5b-d23f30275d55" />
 
-## Part 1 – Configure File Sharing
+# Part 1 – Configure File Sharing
 
 This section demonstrates how to configure a shared folder on Windows Server by creating an SMB file share and assigning NTFS and share permissions
 
