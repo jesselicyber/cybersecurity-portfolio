@@ -24,7 +24,7 @@ I will be using VMware Workstation to create a machine for Windows Server 2022 a
 
 <img width="769" height="238" alt="vmware_zaRcXYM4qt" src="https://github.com/user-attachments/assets/01c3f1f6-03ca-4d2f-ae5b-d23f30275d55" />
 
-## Creating shared folder
+## Folder Creation
 
 Created a dedicated shared folder on Windows Server 2022 that will be used to host files for network users
 
