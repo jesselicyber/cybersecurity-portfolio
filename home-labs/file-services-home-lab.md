@@ -51,11 +51,11 @@ Created a GPO in group policy to allow drive mapping
 
 ## Apply Group Policy
 
-Ran the gpupdate /force command to reapplie all group policie settings
+Ran the gpupdate /force command to immediately reapply all Group Policy settings on the client machine, ensuring the latest policies were deployed and available
 
 <img width="425" height="174" alt="vmware_spHG4hh0hq" src="https://github.com/user-attachments/assets/3ee504dd-9247-45ff-aba8-e31908b75b73" />
 
-## Verify Network Drive Exists
+## Verify Network Drive 
 
 Checked the drive to see if the S: network drive was successfully deployed
 
