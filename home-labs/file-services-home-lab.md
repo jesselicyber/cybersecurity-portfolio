@@ -26,7 +26,7 @@ I will be using VMware Workstation to create a machine for Windows Server 2022 a
 
 ## Part 1 – Configure File Sharing
 
-This section demonstrates how to configure a shared folder on Windows Server by creating an SMB file share and assigning NTFS and share permissions. The shared folder is then accessed from a Windows client to verify network connectivity and ensure authorized domain users can successfully access shared resources.
+This section demonstrates how to configure a shared folder on Windows Server by creating an SMB file share and assigning NTFS and share permissions
 
 ## Folder Creation
 
@@ -52,7 +52,7 @@ Switched to the Windows 10 Virtual Machine and mapped the network drive
 
 ## Part 2 – Automate Drive Mapping with Group Policy
 
-This section demonstrates how Group Policy Preferences can automatically deploy mapped network drives to domain users instead of configuring each client manually.
+This section demonstrates how Group Policy Preferences can automatically deploy mapped network drives to domain users instead of configuring each client manually
 
 ## Configure Drive Mapping with Group Policy
 
@@ -76,8 +76,7 @@ Verified that the S: network drive was successfully deployed
 
 ## Part 3 – Configure File Server Resource Manager (FSRM)
 
-This section demonstrates how File Server Resource Manager (FSRM) can be used to manage shared storage by enforcing disk quotas and restricting specific file types. These features help administrators control disk usage, improve storage management, and enforce organizational policies across file servers.
-
+This section demonstrates how File Server Resource Manager (FSRM) can be used to manage shared storage by enforcing disk quotas and restricting specific file types
 ## Install File Server Resource Manager
 
 Installed the File Server Resource Manager (FSRM) feature to enable storage quotas, file screening, and centralized file management
