@@ -49,6 +49,20 @@ Created a GPO in group policy to allow drive mapping
 
 <img width="395" height="450" alt="vmware_Yi43L0jnTB" src="https://github.com/user-attachments/assets/ba14d8fb-5f78-4588-8b10-937248b37e37" />
 
+## Apply Group Policy
+
+Ran the gpupdate /force command to reapplie all group policie settings
+
+<img width="425" height="174" alt="vmware_spHG4hh0hq" src="https://github.com/user-attachments/assets/3ee504dd-9247-45ff-aba8-e31908b75b73" />
+
+## Verify Network Drive Exists
+
+Checked the drive to see if the S: network drive was successfully deployed
+
+<img width="164" height="79" alt="vmware_X6MwqTy6wy" src="https://github.com/user-attachments/assets/4adf6a0c-9bdd-4a8b-89ed-7a4ccdbaac73" />
+
+
+
 
 
 
