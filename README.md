@@ -22,6 +22,12 @@ Welcome! This portfolio showcases my hands-on IT and cybersecurity projects comp
 - Verified GPO functionality through domain user testing.
 - Documented the complete implementation process.
 
+### [File Services Home Lab](./home-labs/file-services-home-lab.md)
+- Configured SMB file sharing and NTFS permissions.
+- Automated mapped network drives using Group Policy Preferences.
+- Implemented storage quotas and file screening with File Server Resource Manager (FSRM).
+- Documented the complete implementation process.
+
   
 ## About Me
 I'm passionate about learning IT by building hands-on home labs and real-world projects. This portfolio documents my progress as I develop practical experience with Windows Server, Active Directory, networking, virtualization, and system administration. My goal is to continue building practical skills while preparing for an entry-level IT Support or Help Desk role.
