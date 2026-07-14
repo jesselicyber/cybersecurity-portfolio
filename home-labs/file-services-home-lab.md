@@ -61,6 +61,47 @@ Verified that the S: network drive was successfully deployed
 
 <img width="164" height="79" alt="vmware_X6MwqTy6wy" src="https://github.com/user-attachments/assets/4adf6a0c-9bdd-4a8b-89ed-7a4ccdbaac73" />
 
+## Install File Server Resource Manager
+
+Installed the File Server Resource Manager (FSRM) feature to enable storage quotas, file screening, and centralized file management
+
+<img width="412" height="432" alt="vmware_nGRkIVSelY" src="https://github.com/user-attachments/assets/8a7b943b-4478-44fe-9c50-5b6ee2c45404" />
+
+## Configure Storage Quota
+
+Configured a 100 MB hard quota on the shared folder to limit storage usage
+
+<img width="398" height="486" alt="vmware_PebIPxP7wj" src="https://github.com/user-attachments/assets/48729272-7373-4b59-9a80-f3bf15e8c5c8" />
+
+## Configure File Screening
+
+Created a custom file screen to block selected file types, helping enforce organizational storage and security policies
+
+<img width="395" height="455" alt="vmware_MUMyyOqrTd" src="https://github.com/user-attachments/assets/cb65f8e4-cdd5-4595-9325-c16feb4c0190" />
+
+## Verify File Screening 
+
+Verified that the file screen was successfully applied and actively protecting the shared folder
+
+<img width="1021" height="275" alt="vmware_0E1fIl8cGI" src="https://github.com/user-attachments/assets/8b682dce-5d18-425c-b361-ac65a98f683e" />
+
+## Key Takeaways
+- Configured SMB file sharing with NTFS and share permissions.
+- Assigned access to domain users using Active Directory security groups.
+- Mapped shared network drives using Group Policy Preferences.
+- Implemented storage quotas with File Server Resource Manager (FSRM).
+- Configured file screening policies to restrict unwanted file types.
+- Verified Group Policy deployment and network drive accessibility.
+
+## References
+
+This lab was completed while learning from the File Services tutorial by East Charmer. The environment was built, configured, documented, and validated independently using VMware Workstation Pro, Windows Server 2022, and Windows 10.
+
+
+
+
+
+
 
 
 
