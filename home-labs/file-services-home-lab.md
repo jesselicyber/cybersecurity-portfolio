@@ -50,6 +50,8 @@ Switched to the Windows 10 Virtual Machine and mapped the network drive
 
 ## Part 2 – Automate Drive Mapping with Group Policy
 
+This section demonstrates how Group Policy Preferences can automatically deploy mapped network drives to domain users instead of configuring each client manually.
+
 ## Configure Drive Mapping with Group Policy
 
 Created a GPO in group policy to allow drive mapping
