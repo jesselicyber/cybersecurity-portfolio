@@ -50,7 +50,7 @@ Switched to the Windows 10 Virtual Machine and mapped the network drive
 
 <img width="610" height="448" alt="vmware_6cToyNuA2b" src="https://github.com/user-attachments/assets/1bb97c16-3abe-4ca3-a621-26404c5238e2" />
 
-## Part 2 – Automate Drive Mapping with Group Policy
+# Part 2 – Automate Drive Mapping with Group Policy
 
 This section demonstrates how Group Policy Preferences can automatically deploy mapped network drives to domain users instead of configuring each client manually
 
@@ -74,7 +74,7 @@ Verified that the S: network drive was successfully deployed
 
 <img width="164" height="79" alt="vmware_X6MwqTy6wy" src="https://github.com/user-attachments/assets/4adf6a0c-9bdd-4a8b-89ed-7a4ccdbaac73" />
 
-## Part 3 – Configure File Server Resource Manager (FSRM)
+# Part 3 – Configure File Server Resource Manager (FSRM)
 
 This section demonstrates how File Server Resource Manager (FSRM) can be used to manage shared storage by enforcing disk quotas and restricting specific file types
 ## Install File Server Resource Manager
