@@ -1,6 +1,6 @@
 # Cybersecurity & IT Portfolio
 
-A collection of hands-on IT support and cybersecurity lab deployments. Projects cover Active Directory management, Windows Server configuration, and network administration, with full technical documentation and configuration proofs provided for each repository.
+This portfolio documents hands-on IT and cybersecurity projects completed through dedicated home labs, virtualization, and systems administration. Each repository includes project objectives, configuration steps, network diagrams, and screenshots detailing Windows Server and network infrastructure deployment.
 
 ---
 
